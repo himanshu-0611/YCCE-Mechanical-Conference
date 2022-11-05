@@ -49,25 +49,25 @@
       <tr>
         <td>3.</td>
         <td>Date of Submission  of Camera Ready Paper </td>
-        <td>Upto 5<sup>th</sup> January 2022</td>
+        <td>Upto 30<sup>th</sup> December 2022</td>
       </tr>
 
       <tr>
         <td>4.</td>
-        <td>Camera Ready Paper Submission</td>
-        <td>Upto 30<sup>th</sup> December 2022</td>
+        <td>Camera Ready Paper Acceptence</td>
+        <td>5<sup>th</sup> January 2023</td>
       </tr>
 
       <tr>
         <td>5.</td>
         <td>Early Bird Registration</td>
-        <td>1<sup>st</sup> January - 10<sup>th</sup> January 2022</td>
+        <td>1<sup>st</sup> January - 10<sup>th</sup> January 2023</td>
       </tr>
 
       <tr>
         <td>6.</td>
         <td>Late Registration</td>
-        <td>11<sup>th </sup>January - 25<sup>th</sup> January 2022</td>
+        <td>11<sup>th </sup>January - 25<sup>th</sup> January 2023</td>
       </tr>  
 
       <tr>
