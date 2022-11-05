@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    overflow-x: hidden;
+}
+*{
+    box-sizing: border-box;
+}
+.backgroundbg{
+    position: fixed;
+    top: 40px;
+    background-image: url(/img/staticBG1.jpg) , linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15));
+    background-blend-mode: overlay;
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+    z-index: -1;
+    backface-visibility: .5;
+}
+.cusimg{
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: right;
+}
+
+scrollbar {backdrop-filter: blur(10px);}
+
+.bannerImg *{
+    color: white;
+    text-shadow: 0 0 8px #000000 ,0 0 15px #000000,0 0 20px #000000,0 0 25px #000000;
+}
+
+
+#nat_adv_com{
+    margin-top: 20px;
+}
+
+.btn_rammml{
+    background-color: rgb(51 52 57);
+    
+}
+
+.key_speakers{
+    min-height: 60vh;
+    background-color: #efedeb;
+    
+}
+.tmp123{
+    min-height: 100vh;
+}
+
+/* .IM1c {
+    width: 30px;
+} */
+.headerBanner{
+    width: 90%;
+    margin: auto;
+    padding-left: 30px;
+}
+header{
+    background-color: white;
+
+}
+#sectionHome{
+    background-color: white;
+}
+.btn-danger{
+    margin-left: 0;
+}
+h4>span{
+    color: #A83232 !important;
+}
+footer{
+    background-color: #000;
+}
+
+.middle-content h3{
+    color: #A83232;
+   
+    
+}
+
+
+.pub_img > img{
+    display:inline-block;
+    height:90px;
+    margin:auto;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #efedeb;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px rgb(0 0 0 / 15%), 0px 0px 10px rgb(0 0 0 / 20%);
+  }
+  @media screen and (max-width: 768px){
+    .pub_img {
+      flex-direction: column;
+      margin: 20px 0;
+    }
+    .pub_img > img{
+      margin: 20px auto;
+    }
+}
+
