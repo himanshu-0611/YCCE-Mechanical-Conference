@@ -30,7 +30,7 @@
   </li>
     <li>
     <!-- <h5 class="pt-3">Click <a style="text-decoration:none" href="https://forms.gle/UGQ3NsKBqNF7Q7fVA"><span>here</span></a> to register</h5> -->
-    <h5 class="pt-3"> Click here to register.</h5>
+    <h5 class="pt-3"> Click <a style="text-decoration:none" href="https://forms.gle/9vkpJzJ39NquhKtC6" target="_blank">here</a> to register.</h5>
   </li>
     <li>
     <!-- <h5 class="pt-3">Click <a style="text-decoration:none" href="#"><span>here</span></a> to download Copyright form</h5> -->

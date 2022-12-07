@@ -137,19 +137,19 @@
   <li>Payments are to be made after the acceptance of full paper. Payment can be made through IMPS/NEFT transactions payable at the following bank:</li>
  <div style="font-size:1.1rem;max-width:680px; margin:auto;background-color:rgb(222, 226, 230); border-radius:5px;" class="p-3">
     <table class="my-3">
-      <tr><td>Bank</td><td>&nbsp;&nbsp;&nbsp;</td> <td>  <b>Punjab National Bank</b></td></tr>
-      <tr><td>Account no:</td><td>&nbsp;&nbsp;&nbsp;</td> <td>  <b>1472002100003909</b></td></tr>
-      <tr><td>Account name: </td> <td></td> <td><b>YESHWANTRAO CHAVAN COLLEGE OF ENGINEERING</b> </td></tr>
-      <tr><td>Branch : </td> <td></td> <td><b>Khamla, Nagpur-440025</b></td></tr>
-      <tr><td>IFSC : </td> <td></td> <td><b>PUNB0147200</b></td></tr>
+      <tr><td>Bank</td><td>&nbsp;&nbsp;&nbsp;</td> <td>  <b>Tirupati Urban Co-Operative Bank</b></td></tr>
+      <tr><td>Account no:</td><td>&nbsp;&nbsp;&nbsp;</td> <td>  <b>007002300008630</b></td></tr>
+      <tr><td>Account name: </td> <td></td> <td><b>Neeraj Sunheriya</b> </td></tr>
+      <tr><td>Branch : </td> <td></td> <td><b>Wanadongari, Nagpur, 441110</b></td></tr>
+      <tr><td>IFSC : </td> <td></td> <td><b>HDFC0CTUB07</b></td></tr>
     </table>
   </div>  
    <div class="pt-3 text-center"> <h4>Alternate <span>Payment</span>  Mode</h4>
   <div style="font-size:1.1rem;max-width:500px; margin:auto;background-color:rgb(222, 226, 230); border-radius:5px;">
  <table class="table p-3">
    <tr><td style="vertical-align: middle;">You can pay to following UPI-ID
-   <br> <b>8983760646@ybl</b> <br>(Chetan Mahatme)
-  </td><td><img style="border-radius:10px;" height="150px" src="./img/UPI.jpg" alt="UPI"></td> </tr>
+   <br> <b>neeraj.sunheriya-1@okhdfcbank</b> <br>(Neeraj Sunheriya)
+  </td><td><img style="border-radius:10px;" height="150px" src="./img/payment.jpeg" alt="UPI"></td> </tr>
  </table> 
   </div>
   </div>

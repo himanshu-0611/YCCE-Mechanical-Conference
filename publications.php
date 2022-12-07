@@ -34,6 +34,7 @@
     <li>Journal of Institute of Engineers: Series C, Springer</li>
     <!-- <li>World Journal of Engineering, Emerald</li> -->
     <li>Recent Advances in Materials, Manufacturing and Machine Learning (CRC Press, Taylor & Francis)</li>
+    <li>Journal of Advances in Materials and Processing Technologies (Taylor and Francis)</li>
     <!-- <li>Lecture Notes In Mechanical Engineering (Springer) (In process)</li> -->
     <!-- <li>Materials Today: Proceedings (Elsevier) (In process)</li>
     <li>AIP Conference Proceedings (AIP Publishing) (In process)</li> -->
